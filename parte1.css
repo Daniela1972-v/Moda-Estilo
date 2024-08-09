@@ -1,0 +1,15 @@
+header {
+    background-color: #995052;
+    padding: 10px;
+}
+
+header img {
+    width: 100px;
+    height: auto;
+}
+
+.sessão-1 {
+    background-image: url(imagem/woman-8853114_1280.jpg);
+    padding: 250px
+    
+}
